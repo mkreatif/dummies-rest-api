@@ -1,0 +1,21 @@
+{
+  "organization": {
+    "id": 1,
+    "name": "Luarsekolah",
+    "email": "marlina.test0001@gmail.com",
+    "phone": "6283807175920",
+    "folder_id": "1Z7A5ZLFtnyjZGLlDugem9m03EDmnBdEd"
+  },
+  "imap_config": {
+    "username": null,
+    "password": null,
+    "host": null,
+    "port": null
+  },
+  "smtp_config": {
+    "username": null,
+    "password": null,
+    "host": null,
+    "port": null
+  }
+}
