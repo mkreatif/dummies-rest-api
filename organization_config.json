@@ -1,17 +1,21 @@
 {
-  "org_id": 1,
-  "org_name": "Luarsekolah",
-  "org_email": "marlina.test0001@gmail.com",
-  "org_phone": "6283807175920",
-  "org_folder": "1Z7A5ZLFtnyjZGLlDugem9m03EDmnBdEd",
-
-  "username_imap": "marlina.test0001@gmail.com",
-  "password_imap": "xkvc myzq smgt apjo",
-  "host_imap": "imap.gmail.com",
-  "port_imap": "993",
-
-  "username_smtp": "marlina.test0001@gmail.com",
-  "password_smtp": "xkvc myzq smgt apjo",
-  "host_smtp": "smtp.gmail.com",
-  "port_smtp": "465"
+  "organization": {
+    "id": 1,
+    "name": "Luarsekolah",
+    "email": "marlina.test0001@gmail.com",
+    "phone": "6283807175920",
+    "folder_id": "1Z7A5ZLFtnyjZGLlDugem9m03EDmnBdEd"
+  },
+  "imap_config": {
+    "username": "marlina.test0001@gmail.com",
+    "password": "xkvc myzq smgt apjo",
+    "host": "imap.gmail.com",
+    "port": 993
+  },
+  "smtp_config": {
+    "username": "marlina.test0001@gmail.com",
+    "password": "xkvc myzq smgt apjo",
+    "host": "smtp.gmail.com",
+    "port": 465
+  }
 }
